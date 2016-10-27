@@ -1,7 +1,7 @@
 # =========================
 # Node Package Files
 # =========================
-*node_modules/*
+node_modules/*
 bundle.js
 
 # Windows image file caches
